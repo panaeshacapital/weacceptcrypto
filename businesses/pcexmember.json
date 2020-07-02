@@ -1,0 +1,34 @@
+{
+  "name": "Pcex Member",
+  "tagline": "PCEX Member: India's Most Trusted Crypto Exchange",
+  "links": {
+    "website": "https://www.pcexmember.in/",
+    "email": "business@pcexmember.in",
+    "facebook": "pcexmember",
+    "twitter": "pcexmember",
+    "instagram": "pcexmember",
+    "medium": "pcex-member",
+    "linkedin": "pcex-member"
+  },
+  "location": {
+    "city": "New Delhi",
+    "state": "Delhi"
+  },
+  "description": [
+    "PCEX Member- India’s most trusted and secure digital asset exchange is founded by Mr. Sandeep Phogat with a motive to give users a profitable investment option to achieve financial prosperity while exploring the revolutionary financial market i.e. cryptocurrencies. "
+  ],
+  "logo": {
+    "image": "pcex_member_logo.png",
+    "height": "25px"
+  },
+  "colors": {
+    "background": [
+      "#1991e6",
+      "#0077cc"
+    ],
+    "text": "#e7f4fe"
+  },
+  "tags": [
+    "cryptocurrency exchange india"
+  ]
+}
